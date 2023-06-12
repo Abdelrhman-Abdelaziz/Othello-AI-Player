@@ -1,0 +1,5 @@
+Python --onefile mode For Exe take a time to open:
+
+	- It is a well-known fact that Onefile increases the load time for a Pyinstaller 	application.
+	- This is because it adds an extra step to the load process.
+	- This extra step involves unpacking itself into a temporary folder.
